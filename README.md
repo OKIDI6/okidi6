@@ -4,12 +4,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=34&amp;pause=1000&amp;color=12E2A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=Hi+there,+I'm+Okidi+Norbert+👋;Computer+Scientist+💻;Cyber+Security+Expert+🛡️;Hardware+Hacker+⚙️;Basketball+Player+🏀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=12E2A3&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I%27m+Okidi+Norbert+%F0%9F%91%8B;Computer+Scientist+%F0%9F%92%BB;Cyber+Security+Expert+%F0%9F%9B%A1%EF%B8%8F;Hardware+Hacker+%E2%9A%99%EF%B8%8F;Basketball+Player+%F0%9F%8F%80" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" alt="Hacker Typing" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="150" alt="About Me">
 </div>
 
 <div align="center">
@@ -150,11 +150,18 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=3000&amp;color=12E2A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=%22Hardware+is+the+body%2C+Software+is+the+brain%2C+but+the+Engineer+provides+the+soul.%22;-%20Okidi%20Norbert" alt="Typing SVG Quote" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=12E2A3&center=true&vCenter=true&width=800&lines=%22Hardware+is+the+body%2C+Software+is+the+brain%2C+but+the+Engineer+provides+the+soul.%22;-%20Okidi%20Norbert" alt="Typing SVG Quote" />
     </a>
   </p>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="hacker-coder" style="border-radius: 10px;"/>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" alt="Hacker Typing" />
+</div>
+
 </div>
