@@ -50,7 +50,7 @@
     </td>
     <td width="40%" style="border: none; background-color: transparent;" align="center" valign="top">
       <br/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Hacker Coding" style="border-radius: 10px;"/>
+      <img src="hacker_cat.gif" width="280" alt="Hacker Cat" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
