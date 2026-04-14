@@ -9,6 +9,10 @@
 </h1>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="250" alt="Hacker Typing" />
+</div>
+
+<div align="center">
   <a href="https://github.com/okidi6">
     <img src="https://img.shields.io/github/followers/okidi6?label=Followers&style=social" alt="GitHub followers">
   </a>
