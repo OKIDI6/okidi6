@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=12E2A3&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I'm+Okidi+Norbert+👋;Computer+Scientist+💻;AI+%26+Cyber+Security+Expert+🛡️;Hardware+Hacker+⚙️;Semi-Pro+Basketball+Player+🏀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=34&amp;pause=1000&amp;color=12E2A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=Hi+there,+I'm+Okidi+Norbert+👋;Computer+Scientist+💻;Cyber+Security+Expert+🛡️;Hardware+Hacker+⚙️;Basketball+Player+🏀" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -46,7 +46,7 @@
     </td>
     <td width="40%" style="border: none; background-color: transparent;" align="center" valign="top">
       <br/>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Hacker Cat" style="border-radius: 10px;"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Hacker Coding" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -127,16 +127,6 @@
 
 <br/>
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/okidi6/okidi6/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okidi6/okidi6/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/okidi6/okidi6/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 <br/>
 
 ---
@@ -156,7 +146,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=12E2A3&center=true&vCenter=true&width=800&lines=%22Hardware+is+the+body%2C+Software+is+the+brain%2C+but+the+Engineer+provides+the+soul.%22;-%20Okidi%20Norbert" alt="Typing SVG Quote" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=3000&amp;color=12E2A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=%22Hardware+is+the+body%2C+Software+is+the+brain%2C+but+the+Engineer+provides+the+soul.%22;-%20Okidi%20Norbert" alt="Typing SVG Quote" />
     </a>
   </p>
 
