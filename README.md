@@ -152,7 +152,7 @@
 <br/>
   <img src="https://komarev.com/ghpvc/?username=okidi6&label=Profile%20Views&color=12E2A3&style=for-the-badge" alt="views" />
 
-  `<br/><br/>`
+  <br/><br/>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
