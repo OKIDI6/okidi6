@@ -1,12 +1,14 @@
 \documentclass[a4paper,10pt]{article}
-\usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage[left=0.65in,right=0.65in,top=0.65in,bottom=0.65in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{parskip}
 
+\setlist{noitemsep,topsep=2pt,parsep=1pt,partopsep=0pt}
+
 \titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\titlerule]
-\titlespacing*{\section}{0pt}{1.5ex plus 1ex minus .2ex}{1ex plus .2ex}
+\titlespacing*{\section}{0pt}{1.2ex plus 0.5ex minus .2ex}{0.8ex plus .1ex}
 
 \begin{document}
 
@@ -26,14 +28,8 @@ Bachelor of Science in Computer Science \hfill Current CGPA: 4.39/5.0
     \item \textbf{Key Coursework:} Data Structures \& Algorithms, Object-Oriented Programming, Operating Systems, Database Programming, Web Programming, Cyber Security \& Digital Forensics, Data Science, Embedded Systems \& Microcontroller Programming, Robotics \& Control Systems, Very Large Scale Integration (VLSI), Digital Electronics \& Logic Design.
 \end{itemize}
 
-\textbf{Buddo Secondary School} \hfill 2022 \\
-Uganda Advanced Certificate of Education (UACE)
-
-\textbf{St. Joseph's College Layibi} \hfill 2019 \\
-Uganda Certificate of Education (UCE)
-
-\textbf{Police Primary School} \hfill 2015 \\
-Primary Leaving Examination (PLE)
+\textbf{Buddo Secondary School} --- Uganda Advanced Certificate of Education (UACE) \hfill 2022 \\
+\textbf{St. Joseph's College Layibi} --- Uganda Certificate of Education (UCE) \hfill 2019
 
 \section{Certifications}
 \begin{itemize}[leftmargin=*]
@@ -50,7 +46,7 @@ Primary Leaving Examination (PLE)
     \item \textbf{AI \& Machine Learning:} PyTorch, TensorFlow, OpenCV, Scikit-learn, YOLO
     \item \textbf{Web \& Databases:} React, Next.js, Django, Flask, HTML/CSS, Tailwind CSS, PostgreSQL, MySQL, MongoDB, Supabase
     \item \textbf{DevOps \& Deployment:} Vercel, Hugging Face, AWS, Docker, Git, CI/CD Pipelines
-    \item \textbf{CyberSecurity \& OS:} Linux (Kali, Debian, Ubuntu), Windows, Ethical Hacking, Penetration Testing, Digital Forensics
+    \item \textbf{Cybersecurity \& OS:} Linux (Kali, Debian, Ubuntu), Windows, Ethical Hacking, Penetration Testing, Digital Forensics
     \item \textbf{Creative Tools:} Adobe Photoshop, DaVinci Resolve, CapCut, Canva, Motion Graphics
 \end{itemize}
 
@@ -68,12 +64,12 @@ Primary Leaving Examination (PLE)
     \item Participated in an exhibition showcasing a custom-built robotic arm project.
 \end{itemize}
 
-\textbf{IT Support Technician (Self-Employed)} \hfill 2021 – Present
+\textbf{Independent Technical Consultant \& Hardware Engineer} \hfill 2021 – Present
 \begin{itemize}[leftmargin=*]
-    \item Built a successful side-hustle business resolving electronics and computer issues around the university, with 4 years of commercial experience.
-    \item Diagnosed low-level hardware and software issues, providing data recovery, OS installations (macOS, Windows), and hardware upgrades.
-    \item Automated repetitive system tasks and diagnostics using Python and Bash scripts.
-    \item Configured networking devices and performed deep system debugging.
+    \item Founded and operated a technical consultancy service resolving hardware and software issues for 150+ clients within the university community.
+    \item Diagnosed low-level hardware faults, performed data recovery, configured operating systems (macOS, Linux, Windows), and executed component-level hardware upgrades.
+    \item Automated system diagnostics and repetitive maintenance tasks using custom Python and Bash scripting.
+    \item Configured local network devices, troubleshot routing issues, and performed deep-system software debugging.
 \end{itemize}
 
 \textbf{Independent Content Creator \& Video Editor} \hfill 2021 – Present
@@ -84,25 +80,27 @@ Primary Leaving Examination (PLE)
 \end{itemize}
 
 \section{Projects}
-\textbf{CineQuest Project} \hfill Current
+\textbf{BAKO-AI — Sports Analytics \& Computer Vision Platform} \hfill 2026
 \begin{itemize}[leftmargin=*]
-    \item Leading Full-Stack Integration and Model Engineering for an interactive web application.
-    \item Deeply integrated AI-assisted development tools (Cursor, Antigravity) to speed up scripting, API routing, deployment troubleshooting, and documentation generation.
+    \item Engineered an advanced real-time computer vision engine using PyTorch, OpenCV, and custom YOLO architectures for automated basketball tracking (player, ball, and court keypoints).
+    \item Architected a 4-phase shot-form biometric skill diagnostics pipeline and a 7-module tactical analytics suite.
+    \item Developed a robust full-stack system featuring automated video ingestion, Supabase/PostgreSQL database management, and interactive React/Next.js analytics dashboards.
 \end{itemize}
 
-\textbf{Robotic Arm – Embedded Control System}
+\textbf{CineQuest — AI Movie Discovery Platform} \hfill 2025
 \begin{itemize}[leftmargin=*]
-    \item Designed and developed a robotic arm prototype using embedded control principles.
-    \item Implemented actuator control logic in C/C++ and seamlessly integrated sensors and motor drivers.
+    \item Spearheaded full-stack integration and recommendation model engineering for an interactive media search platform.
+    \item Leveraged state-of-the-art AI agent workflows (Cursor, Antigravity) to accelerate API routing, CI/CD deployment, and high-performance scripting.
 \end{itemize}
 
-\textbf{Sports Analytics Computer Vision Engine}
+\textbf{Embedded Robotic Arm Control System} \hfill 2025
 \begin{itemize}[leftmargin=*]
-    \item Developed advanced Deep Learning models utilizing PyTorch and OpenCV for real-time basketball analytics.
+    \item Designed and fabricated a multi-degree-of-freedom (DOF) robotic arm prototype controlled via custom C/C++ firmware.
+    \item Implemented low-level actuator control utilizing PWM-driven servo systems, UART serial protocols, and real-time sensor integration.
 \end{itemize}
 
 \section{Sports \& Extracurricular}
-\textbf{UCU Canons – National Basketball League (NBL)} \hfill Point Guard / Shooting Guard
+\textbf{UCU Canons – National Basketball League (NBL)} \hfill Shooting Guard, Small Forward, Power Forward
 \begin{itemize}[leftmargin=*]
     \item Represented Uganda Christian University at the 2024 World University 3x3 Championship in Xiamen, China.
     \item Demonstrated high-level teamwork, leadership, and performance under pressure with 6+ years of competitive play.

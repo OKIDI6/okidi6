@@ -1,12 +1,14 @@
 \documentclass[a4paper,10pt]{article}
-\usepackage[left=0.75in,right=0.75in,top=0.75in,bottom=0.75in]{geometry}
+\usepackage[left=0.55in,right=0.55in,top=0.45in,bottom=0.45in]{geometry}
 \usepackage{hyperref}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{parskip}
 
+\setlist{noitemsep,topsep=1pt,parsep=0.5pt,partopsep=0pt}
+
 \titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\titlerule]
-\titlespacing*{\section}{0pt}{1ex plus 1ex minus .2ex}{0.8ex plus .2ex}
+\titlespacing*{\section}{0pt}{0.6ex plus 0.2ex minus .1ex}{0.4ex plus .1ex}
 
 \begin{document}
 
@@ -16,7 +18,7 @@
     GitHub: \href{https://github.com/okidi6}{okidi6} (Active) | \href{https://github.com/okidnorbert}{okidnorbert} (Archive) \textbullet{} \href{https://www.linkedin.com/in/okidi-norbert-881ba3305}{linkedin.com/in/okidi-norbert-881ba3305}
 \end{center}
 
-\vspace{0.5em}
+\vspace{-0.5em}
 
 Computer Science graduate-to-be with strong expertise in embedded systems, full-stack development, and offensive security. Highly proficient in AI-driven software engineering, leveraging advanced AI assistants (Cursor, Antigravity, ChatGPT, Claude) across the entire SDLC—from architecture planning and documentation to scripting, debugging, and deployment—to drastically accelerate development cycles.
 
@@ -51,34 +53,36 @@ Bachelor of Science in Computer Science \hfill Current CGPA: 4.39/5.0
     \item Participated in the technical demonstration and exhibition of a custom-built robotic arm.
 \end{itemize}
 
-\textbf{IT Support Technician (Self-Employed)} \hfill 2021 – Present
+\textbf{Independent Technical Consultant \& Hardware Engineer} \hfill 2021 – Present
 \begin{itemize}[leftmargin=*, noitemsep]
-    \item Built a successful business resolving electronics and computer issues with 4 years of commercial experience.
-    \item Diagnosed complex hardware and software issues, providing data recovery, OS installations, and hardware upgrades.
+    \item Founded and operated a technical consultancy service resolving hardware and software issues for 150+ clients within the university community.
+    \item Diagnosed low-level hardware faults, performed data recovery, configured operating systems (macOS, Linux, Windows), and executed component-level hardware upgrades.
 \end{itemize}
 
 \section{Projects}
-\textbf{Robotic Arm – Embedded Control System}
+\textbf{BAKO-AI — Sports Analytics \& CV Platform}
 \begin{itemize}[leftmargin=*, noitemsep]
-    \item Designed and developed a 3-axis robotic arm prototype implementing embedded control principles.
-    \item Programmed precise actuator control logic in C/C++ and integrated sensors with motor drivers.
+    \item Engineered an advanced real-time computer vision engine using PyTorch, OpenCV, and custom YOLO architectures for player, ball, and court keypoint tracking.
+    \item Architected a 4-phase biometric shot diagnostics pipeline and a 7-module tactical analytics suite.
 \end{itemize}
 
-\textbf{Sports Analytics Computer Vision Engine}
+\textbf{CineQuest — AI Movie Discovery Platform}
 \begin{itemize}[leftmargin=*, noitemsep]
-    \item Trained and deployed advanced Deep Learning models (YOLO, PyTorch) for real-time basketball detection and player tracking using OpenCV.
+    \item Spearheaded full-stack integration and recommendation model engineering for an interactive media search platform.
+    \item Leveraged state-of-the-art AI agent workflows (Cursor, Antigravity) to accelerate API routing and CI/CD deployment.
 \end{itemize}
 
-\textbf{CineQuest Full-Stack Project}
+\textbf{Embedded Robotic Arm Control System}
 \begin{itemize}[leftmargin=*, noitemsep]
-    \item Lead Full-Stack Integration and Model Engineering, utilizing modern web frameworks (React/Next.js) and connecting them to robust backend infrastructures.
-    \item Leveraged AI-assisted development workflows (Cursor, Antigravity) to accelerate feature shipping, debug complex cross-stack errors, and automate project documentation.
+    \item Designed and fabricated a multi-degree-of-freedom robotic arm prototype controlled via custom C/C++ firmware.
+    \item Implemented low-level actuator control utilizing PWM-driven servo systems, UART serial protocols, and real-time sensor integration.
 \end{itemize}
 
-\section{Extracurricular Leadership}
-\textbf{Semi-Professional Athlete — UCU Canons (National Basketball League)} \hfill 2023 – Present
+\section{Sports \& Leadership}
+\textbf{UCU Canons – National Basketball League (NBL)} \hfill Shooting Guard, Small Forward, Power Forward
 \begin{itemize}[leftmargin=*, noitemsep]
-    \item Represented Uganda at the 2024 World University 3x3 Championship in Xiamen, China.
+    \item Represented Uganda Christian University at the 2024 World University 3x3 Championship in Xiamen, China.
+    \item Demonstrated high-level teamwork, leadership, and performance under pressure with 6+ years of competitive play.
 \end{itemize}
 
 \end{document}
